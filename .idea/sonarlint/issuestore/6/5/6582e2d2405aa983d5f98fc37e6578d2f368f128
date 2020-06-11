@@ -1,0 +1,8 @@
+
+Q
+java:S1481
+"4Remove this unused "calendarService" local variable.(¯•‰‡8öÑßõ©.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(æ‚‰ÿÿÿÿÿ8ıäôĞ©.
+`
+java:S1854
+"CRemove this useless assignment to local variable "calendarService".(¯•‰‡8öÑßõ©.
